@@ -1,0 +1,21 @@
+header{
+    border: solid blueviolet 2px;
+}
+.ahmed{
+    background-color: #F0F6FC;
+}
+.tex{
+    margin-left: 150px;
+}
+.sec-form{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.line{
+    border-bottom: solid 1px black;
+}
+.foot{
+    background-color: #0070B9;
+}
